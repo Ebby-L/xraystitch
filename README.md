@@ -79,4 +79,4 @@ DISK (Tyszkiewicz et al., 2020) and LightGlue (Lindenberger et al., 2023), used 
 
 ---
 
-Built by **Ebby Lari**, biomedical engineer working on medical imaging and devices for low-resource settings.
+Built by **Ebby Lari**, biomedical engineer
